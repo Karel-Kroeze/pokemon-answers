@@ -1,3 +1,9 @@
+---
+title   : In search of the best Pokémon
+author  : Kroeze, Noort, Steinrücke, & Smink
+date    : today
+---
+
 # Pokémon
 Ever since Ash Ketchum left his home in Pallet Town to become a Pokémon Master, aspiring Pokémon trainers from around the world wondered: "_what is the best Pokémon_"? Although Ash’s faithful travel companion Pikachu is perhaps the most famous Pokémon (who is even well-known by those less enthusiastic about the Pokémon franchise), it is almost certainly not the _best_ Pokémon. But then which of the 807 Pokémon is? 
 
@@ -43,6 +49,7 @@ We present the results of several simulation-studies.
 Our first simulation-study aims to answer the question, which starter Pokémon is the superior of the three. With an answer for each of the eight generations of Pokémon, our second simulation-study aims answers the question which of the overall starters is the best choice.
 
 ### Exclusions
+
 Only the starting level (5) will be considered.
 Weather will not be considered.
 Healing and other base stat increasing items will not be considered.
@@ -58,4 +65,5 @@ Pokemon battles will be simulated using, as far as is practical, the rules and m
 - use a fixed pattern/rule of thumb for move repetitions?
 - develop a self-learning neural network?
   
+## Materials
 Some resources already exist under an MIT license: https://github.com/fonse/pokemon-battle for simplified simulation of pokemon battles, and https://github.com/pvpoke/pvpoke for more in depth simulation of pokemon _GO_ battles, which are somehow different. 

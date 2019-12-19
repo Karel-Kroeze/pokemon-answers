@@ -1,3 +1,6 @@
 # NPM/Node/Javascript black hole of dependencies.
 node_modules
 
+# R crud
+.Rhistory
+.Renv

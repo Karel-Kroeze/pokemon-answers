@@ -83,6 +83,14 @@ Some resources already exist under an MIT license (https://github.com/fonse/poke
 ### Pokémon stats
 We obtainend the base stats from the Pokémon from ...
 
+## Some side notes
+
+#### Higher levels mean higher win rates
+
+It’s a very simple concepts: usually the Pokémon with the higher level wins. This introduces bias: we are not interested in knowing which Pokémon -on average- has the highest levels in online player battles, we simply want to let Pokémon compete where there are no level differences, so that differences between Pokémon are the result of their actual capabilities (and not differences in levels). 
+
+#### First move advantage 
+
 # Results
 
 # Discussion
@@ -90,3 +98,14 @@ We obtainend the base stats from the Pokémon from ...
 We presented results of a simulation study. Although we believe our study properly emulates actual Pokémon battles, we cannot be certain that we missed some elements. Indeed, some of the restrictions that we introduced to our study will have affected our results. We address these issues and argue for the choices that we made.
 
 ## Actual data
+
+Since the release of Pokémon Diamond and Pearl (the generation IV games) in 2006, Pokémon trainers from around the world could battle each other through the new online feature in the game. All other generation of Pokémon games included this online feature. It is very likely that there is some sort of database (probably at Nintendo) that stores the outcomes of these Pokémon battles. We strongly feel that these data are -in fact- better suited to answer all questions concerning win rates of Pokémon games than simulated data.
+
+However, there are also some drawbacks. First of all, to the best of our knowledge, this data is not publicly available, which means we cannot perform data analyses to these battles. We did not contact Nintendo or Game Freak, but we are very interested in seeing analyses based on these data.
+
+Second, because these battle data are the result of the preferences and choices that human players made, it is not unlikely that some Pokémon did not battle each other. As our ambition was to “_compare ‘em all_”, we felt that a simulation study gave us more control and flexibility. Also, as the Pokémon of players could be based on high base stats, this would again introduce some bias: we are not interested in base stats per se, but in actual battle performance.
+
+Third, and in again in line with our ambition to _compare ‘em all_” (which is the last time we reference the theme song of the Pokémon anime series), we are not interested in differences in Pokémon performance that are the result of different choices for battle moves. A simulation study gives more flexibility in this respect.
+
+It is perhaps good to note that online Pokémon battles do not include differences between Pokémon levels. For online battles, all Pokémon have the same level.
+ 

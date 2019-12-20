@@ -1,5 +1,7 @@
+# Load required packages.
 require(tidyverse)
 
+# Obtain the 'Pokédex'-data, so that we can work with the Pokémon.
 pokemon <- readr::read_csv("./node_modules/pokemon-battle/data/pokedex/pokedex/data/csv/pokemon.csv") %>%
   filter( id < 1000 )
 

@@ -1,7 +1,7 @@
 ---
 title   : Towards finding the Pokémon
 author  : Kroeze, Noort, Steinrücke, & Smink
-date    : today
+date    : `r format(Sys.time(), "%d %B, %Y")`
 ---
 
 # Abstract

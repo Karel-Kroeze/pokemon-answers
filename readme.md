@@ -17,23 +17,21 @@ Yet, we encountered few online discussions that were supported by empirical data
 
 ## Literature
 
-We considered two types of literature.
+The (scientific) literature about Pokémon can be organised around three themes: publications of the health effects of Pokémon Go with respect to physical activity (or driving accidents), developmental effects on children (memory, literacy, physical activity, gaming), and studies into cultural phenomena (history of video games, Pokémon and the Japanse culture, make-believe worlds, storyline analysis).
 
-### Scientific literature
-
-The literature on Pokémon can be organised around three themes: publications of the health effects of Pokémon Go with respect to physical activity (or driving accidents), developmental effects on children (memory, literacy, physical activity, gaming), and studies into cultural phenomena (history of video games, Pokémon and the Japanse culture, make-believe worlds, storyline analysis).
-
-To the best of our knowledge, we did not encounter scientific reporiting that was in line with our research goals.
+To the best of our knowledge, we did not encounter scientific reporiting that was in line with our research goals. There are, however, numerous of discussions online on the topic. Because this literature is more relevant to our specific needs than the available scientific literature, we chose to study these works.
 
 ### Online discussions
 
-Although it could be considered quite a simple question, the answer is (perhaps surprisingly) nuanced. First, we need to need to define what we are actually hoping to find out. Our question concerns the Pokémon games developed by Game Freak and published by Nintendo. Pokémon itself is a media franchise that is managed by The Pokémon Company, which –according to Wikipedia- shares divided be Nintendo, Game Freak and Creatures. We do not consider the mobile augmented reality game Pokémon Go, or other spinoff games (such as Detective Pikachu). We expect that results differ for the card game Pokémon and Pokémon Go.
+The frequency by which Pokémon trainers (i.e. players of the Pokémon games) discuss which Pokémon could be considered the best addition to their team gives the impression that it is a simple question. The answer is in fact (and perhaps surprisingly) nuanced.
 
-The Pokémon games that we consider consist out the eight generations of Pokémon games, that span the Game Boy, Game Boy Color, Game Boy Advance, Nintendo DS, Nitendo 3DS, and the Nintendo Switch. 
+First, we need to need to define what we are actually hoping to find out. Our question concerns the Pokémon games developed by Game Freak and published by Nintendo. Pokémon itself is a media franchise that is managed by The Pokémon Company, which –according to Wikipedia- shares divided be Nintendo, Game Freak and Creatures. We do not consider the mobile augmented reality game Pokémon Go, or other spinoff games (such as Detective Pikachu). We expect that results differ for the card game Pokémon and Pokémon Go.
 
-We considered online discussions into these games...
+The Pokémon games that we consider consist out the eight generations of Pokémon games, that span the Game Boy, Game Boy Color, Game Boy Advance, Nintendo DS, Nitendo 3DS, and the Nintendo Switch. With the release of each new game, four types of discussions emerge: which _starter_ Pokémon is 'the best', which Pokémon is the best _overall_, which Pokémon are best adapted to the challanges in the game, and 'qualitative analysis' of which Pokémon is the strongest. The last category is often supported by digital animations of the Pokémon battles (which are in line with the Pokémon battles of the anime) and the makers of those videos theorize which Pokémon should be considered stronger. Because these discussions do not consider actual battle performance of Pokémon, we do not consider these.
 
- 
+The _strategy_ discussions are organised around the challanges of the game. Each Pokémon game contains gyms with a gym-leaders commanding an expectionally strong team of Pokémon. These battles acts as the traditional 'boss-battles' in video-games. Because these discussions are often organised around the questions whether _types_ of Pokémon are best up for the challanges, we do not consider these discussions for our research goals.
+
+Two types of discussions remain, but both rely on the same reasoning. In the next section, we discuss their relevance.
 
 ## What could be considered under _best_?
 

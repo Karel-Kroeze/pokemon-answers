@@ -18,9 +18,9 @@ Yet, we encountered few online discussions that were supported by empirical data
 
 ## Literature
 
-The (scientific) literature about Pokémon can be organised around three themes: publications of the health effects of Pokémon Go with respect to physical activity (or driving accidents), developmental effects on children (memory, literacy, physical activity, gaming), and studies into cultural phenomena (history of video games, Pokémon and the Japanse culture, make-believe worlds, storyline analysis).
+The (scientific) literature about Pokémon can be organised around three themes: publications on the health effects of Pokémon Go with respect to physical activity (or driving accidents), developmental effects on children (memory, literacy, physical activity, gaming), and studies into cultural phenomena (history of video games, Pokémon and the Japanse culture, make-believe worlds, storyline analysis).
 
-To the best of our knowledge, we did not encounter scientific reporiting that was in line with our research goals. There are, however, numerous of discussions online on the topic. Because this literature is more relevant to our specific needs than the available scientific literature, we chose to study these works.
+To the best of our knowledge, there is no scientific reporting that is in line with our research goal. There are, however, numerous of discussions online on the topic. Because these web-based discussions (and top ten lists) are more relevant to our specific needs than the available scientific literature, we (shortly) reflect on these. As the Internet has a short lifespan (and some websites could be online), we want to reflect on the fiedl. 
 
 ### Online discussions
 
@@ -48,15 +48,19 @@ Ultimately, the question of which Pokémon is the best, is the result of simple 
 
 The goal is to knock-out all Pokémon of the opposing team. This can be done through to _physical_ and _special_ (attack) moves. _Attack_ determine how much damage a Pokémon deals when using a physical move, _defence_ determines how much damage a Pokémon receives when it is hit with a physical move. The _special attack_ and _special defence_ partly determines how much damage a Pokémon deals or receives when it is hit or deals a _special_ move. There are three other types of stats: _speed_, which determines which of the Pokémon can deal the first blow, _evasion_ determines its probability of avoiding other Pokémon’s moves, and the _accuracy_ determines its probability of hitting another Pokémon.
 
-#### Empirical data
+## Empirical data
 
 Because Pokémon battles are subjected to these statistics, arguably the sum of all base-stats is not the ideal way to discussion Pokémon’s in terms of their battle capacities, also because Pokémon *always* consist out of a team of (up to) six.
 
 A Pokémon team with the highest base-stats is could be weak to some combination of Pokémon that have better balanced types. We expect to find very similar results to those discussing Pokémon base stats when _individual_ battle performance is considered. However, because Pokémon always battles in teams, the question of what is the _best_ is acutally one of team battles, supported by simply scoring battle performance of that team. 
 
+### Pokémon battle simulators
+
+There are also some Pokémon simulators. However, also to our surprise (and to the best of our knowledge), we found no reporting on how Pokémon compare to each based on the performance on repeated simulated examples (even though it is straightforward based on the considerable efforts it takes to build such a simulator).
+
 ## Research question
 
-We there organised our results section into several components. We first consider the age-old question: _which starter Pokémon is best_? Each generation has its own set of three, we first discuss which of the three in each generation has the  highest win rate over the two Pokémon. Then, we compare the _best_ of each generation with the best of the other generations. Then, we consider teams of Pokémon.
+We therefor organised our results section into several components. We first consider the age-old question: _which starter Pokémon is best_? Each generation has its own set of three, we first discuss which of the three in each generation has the  highest win rate over the two Pokémon. Then, we compare the _best_ of each generation with the best of the other generations. Then, we consider teams of Pokémon.
 
 # Method
 

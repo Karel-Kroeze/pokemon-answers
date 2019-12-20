@@ -56,7 +56,7 @@ A Pokémon team with the highest base-stats is could be weak to some combination
 
 ### Pokémon battle simulators
 
-There are also some Pokémon simulators. However, also to our surprise (and to the best of our knowledge), we found no reporting on how Pokémon compare to each based on the performance on repeated simulated examples (even though it is straightforward based on the considerable efforts it takes to build such a simulator).
+There are also some Pokémon simulators. However, also to our surprise (and to the best of our knowledge), we found no reporting on how Pokémon compare to each based on the performance on repeated simulated examples (even though it is straightforward based on the considerable efforts it takes to build such a simulator). We mention a couple of examples: [The Pokémon Battle Simulator][1], [The Pokémon Showdown][2]
 
 ## Research question
 
@@ -136,3 +136,5 @@ Third, and in again in line with our ambition to _compare ‘em all_” (which i
 It is perhaps good to note that online Pokémon battles do not include differences between Pokémon levels. For online battles, all Pokémon have the same level.
 
 # References
+[1]: https://pokemon-battle.herokuapp.com/ "The Pokémon Battle Simulator"
+[2]: https://pokemonshowdown.com/ "The Pokémon Showdown!"

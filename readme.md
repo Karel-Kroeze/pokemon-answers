@@ -51,29 +51,39 @@ The goal is to knock-out all Pokémon of the opposing team. This can be done thr
 
 Because Pokémon battles are subjected to these statistics, arguably the sum of all base-stats is not the ideal way to discussion Pokémon’s in terms of their battle capacities, also because Pokémon *always* consist out of a team of (up to) six.
 
-A Pokémon team with the highest base-stats is could be weak to some combination of Pokémon that have better balanced types.
+A Pokémon team with the highest base-stats is could be weak to some combination of Pokémon that have better balanced types. We expect to find very similar results to those discussing Pokémon base stats when _individual_ battle performance is considered. However, because Pokémon always battles in teams, the question of what is the _best_ is acutally one of team battles, supported by simply scoring battle performance of that team. 
 
 ## Research question
 
-We present several results. Even though we want to consider which combination of Pokémon is best for a team, we first consider the age-old question: _which starter Pokémon of each generation has the highest win rate over the other Pokémon in its generations_? This results in eight answers, when then determine _which starter Pokémon is superior to the other_?
+We there organised our results section into several components. We first consider the age-old question: _which starter Pokémon is best_? Each generation has its own set of three, we first discuss which of the three in each generation has the  highest win rate over the two Pokémon. Then, we compare the _best_ of each generation with the best of the other generations. Then, we consider teams of Pokémon.
 
 # Method
 
-We present the results of several simulation-studies.
+In the method section, we discuss how we conducted our simulation study, where we obtained the information for our Pokédex from, and what types of restrictions we imposed to our study.
 
-## Best starter Pokémon
+## Materials
+Some resources already exist under an MIT license (https://github.com/fonse/pokemon-battle) for simplified simulation of Pokémon battles, and (https://github.com/pvpoke/pvpoke) for more in depth simulation of Pokémon _GO_ battles, which are somehow different. 
 
-Our first simulation-study aims to answer the question, which starter Pokémon is the superior of the three. With an answer for each of the eight generations of Pokémon, our second simulation-study aims answers the question which of the overall starters is the best choice.
+### Pokémon stats
+We obtainend the base stats from the Pokémon from ...
 
-### Exclusions
+## Exclusions
 
-For the first research question, we only considered the starting level of the starter Pokémon, which is level 5.
+For the first research question, we only considered the starting level of the starter Pokémon, which is level 5 (with 1 as the lowest, and 100 as the highest level).
+
 In general, we do not consider different weather types, or variantions between weather type. 
 We do not consider the effects of healing items, or base-stat increasing items. If there is an effect of these items, than it could all Pokémon equally, effectively cancelling their additive value.
 
-The rules of the Pokémon became slightly more complex over the years. We consider the rules of the ... generation. 
+The rules of the Pokémon became slightly more complex over the years. We considered the latest set of rules. This is also the case for Pokémon that obtained another type later on (for some early generation of Pokémon, a type was added to later on).
 
-### Definition of 'best'
+## Operationalisation
+
+We discuss the reliability and validity of our study.
+
+### Reliability: How do our results compare
+We feel that a simulation study is an exceptionally reliable way to discuss Pokémon in terms of their battle performance. The main issue is that some of the restrictions that we impose could affect the outcomes, and that some choices are up for debate. To weaken these effects, we discuss all choices that we made. 
+
+### Validity: Definition of 'best'
 The Pokémon with the highest percentage of battles won. While pokemon that excel in their particular niche might be preferable in a team composition, for this first study we first consider individual winrates.
 
 ### Simulating battles
@@ -84,19 +94,23 @@ Pokemon battles will be simulated using, as far as is practical, the rules and m
 - develop a self-learning neural network?
 - Competative player statistics from online battles?
   
-## Materials
-Some resources already exist under an MIT license (https://github.com/fonse/pokemon-battle) for simplified simulation of Pokémon battles, and (https://github.com/pvpoke/pvpoke) for more in depth simulation of Pokémon _GO_ battles, which are somehow different. 
+## Some additional notes
 
-### Pokémon stats
-We obtainend the base stats from the Pokémon from ...
-
-## Some side notes
+There are also some variations between Pokémon that we do not consider extensively. We shortly adress these issues, because these are two differences that vary in our simulation from in-game Pokémon battles.
 
 #### Higher levels mean higher win rates
 
-It’s a very simple concepts: usually the Pokémon with the higher level wins. This introduces bias: we are not interested in knowing which Pokémon -on average- has the highest levels in online player battles, we simply want to let Pokémon compete where there are no level differences, so that differences between Pokémon are the result of their actual capabilities (and not differences in levels). 
+It’s a very simple concepts: usually the Pokémon with the higher level wins. If we would consider the effect that a level of each Pokémon has, we would introduces bias: we are not interested in knowing which Pokémon -on average- has the highest levels in online player battles, we simply want to let Pokémon compete where there are no level differences, so that differences between Pokémon are the result of their actual capabilities (and not differences in levels).
+
+It is good to note that for competitve online battles, the game developer also imposed these restrictions: all Pokémon compete at the same level (often level 50).
 
 #### First move advantage 
+
+In many games, the player (or the team) that has the first move, is also often the team that wins. For example, in chess the player that plays the _white_ gets to make the first move in chess, which is associated with higher wins rates than the opposing _black_ team. Because we consider Pokémon to be at the same level, the only attribute that determines who gets to make the first move is the _speed_.
+
+#### Evolutions
+
+We do not consider the differences between evolved Pokémon. When reaching a certain level, some Pokémon can evolve into a stronger version. Because these stronger versions have higher base stats, we do not expect that the lower evolutions are able to beat them (assuming equality between Pokémon levels). As a results, effectively, the variantions between different evolutions does not create differences between Pokémon.
 
 # Results
 

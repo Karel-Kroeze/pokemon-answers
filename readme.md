@@ -1,17 +1,21 @@
 ---
-title   : In search of the best Pokémon
+title   : Towards finding the Pokémon
 author  : Kroeze, Noort, Steinrücke, & Smink
 date    : today
 ---
 
-# Pokémon
+# Abstract
+
+Numerous strategy guides and online forums discuss the (partially open) question: which of the Pokémon is the ‘best’? The answer is more difficult than many online attempts to answer it may seem, also because there is a variety of different Pokémon games (and all Pokémon slightly difference between these outlets): Pokémon Go, the Pokémon Card game and the Nintendo, and the Game Freak games published by Nintendo. We only consider the last category. Although arguably the ‘best’ Pokémon in these games is the one with the highest summed ‘base stats’ (traits that determine the Pokémon’s battle performance), the arguments (that we found) are often not supported by actual empirical data from ‘actual’ Pokémon battles. Aside from that, Pokémon trainers should not consider Pokémon for inclusion in their team based on their individual performance, but based on their performance as a team. We did not a Pokémon battle simulator that that specifically addressed these issues, which is exactly what we developed. We present results of several questions here: (discuss some results shortly). We hope that this aids aspiring Pokémon Master from around the world.
+
+# Introduction 
 Ever since Ash Ketchum left his home in Pallet Town to become a Pokémon Master, aspiring Pokémon trainers from around the world wondered: "_what is the best Pokémon_"? Although Ash’s faithful travel companion Pikachu is perhaps the most famous Pokémon (who is even well-known by those less enthusiastic about the Pokémon franchise), it is almost certainly not the _best_ Pokémon. But then which of the 807 Pokémon is? 
 
 This is the question that we explore. With the release of the eighth generation of Pokémon in the Pokémon Sword and Shield games, this question has renewed relevance (although that case could be made with each new generation of Pokémon). Perhaps a better telltale that this question is still relevant is the large number of online discussion. The first Pokémon games are still discussed online. Given that these games were released in 1996 (1998 in the USA), there is still debate which Pokémon should (and which shouldn't) be on the team of a Pokémon Master.
 
 Yet, we encountered few online discussions that were supported by empirical data from 'actual' Pokémon-battles. In the current article, we present results of our Pokémon battle simulation-study. We organised the remainder of this article as follows. First, we will discuss the (online) literature, and argue why we feel that our study is equipped to answer this question. In the method section, we discuss how we operationalised our research question of _best_ Pokémon and discuss the battle simulator study. We then present our results in the results section, and reflection on the answers we found in the discussion. As few questions could be as divisive as this question concerning Pokémon we also reflect on several of the shortcomings of our study. And, of course, we answer the question of which Pokémon can be considered as the _best_ (and no, it is not Pikachu).
 
-## Online discussions.
+## Online discussions
 Although it could be considered quite a simple question, the answer is (perhaps surprisingly) nuanced. First, we need to need to define what we are actually hoping to find out. Our question concerns the Pokémon games developed by Game Freak and published by Nintendo. Pokémon itself is a media franchise that is managed by The Pokémon Company, which –according to Wikipedia- shares divided be Nintendo, Game Freak and Creatures. We do not consider the mobile augmented reality game Pokémon Go, or other spinoff games (such as Detective Pikachu). We expect that results differ for the card game Pokémon and Pokémon Go.
 
 The Pokémon games that we consider consist out the eight generations of Pokémon games, that span the Game Boy, Game Boy Color, Game Boy Advance, Nintendo DS, Nitendo 3DS, and the Nintendo Switch. 

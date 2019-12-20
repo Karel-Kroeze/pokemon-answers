@@ -15,16 +15,25 @@ This is the question that we explore. With the release of the eighth generation 
 
 Yet, we encountered few online discussions that were supported by empirical data from 'actual' Pokémon-battles. In the current article, we present results of our Pokémon battle simulation-study. We organised the remainder of this article as follows. First, we will discuss the (online) literature, and argue why we feel that our study is equipped to answer this question. In the method section, we discuss how we operationalised our research question of _best_ Pokémon and discuss the battle simulator study. We then present our results in the results section, and reflection on the answers we found in the discussion. As few questions could be as divisive as this question concerning Pokémon we also reflect on several of the shortcomings of our study. And, of course, we answer the question of which Pokémon can be considered as the _best_ (and no, it is not Pikachu).
 
-## Online discussions
+## Literature
+
+We considered two types of literature.
+
+### Scientific literature
+
+The literature on Pokémon can be organised around three themes: publications of the health effects of Pokémon Go with respect to physical activity (or driving accidents), developmental effects on children (memory, literacy, physical activity, gaming), and studies into cultural phenomena (history of video games, Pokémon and the Japanse culture, make-believe worlds, storyline analysis).
+
+To the best of our knowledge, we did not encounter scientific reporiting that was in line with our research goals.
+
+### Online discussions
+
 Although it could be considered quite a simple question, the answer is (perhaps surprisingly) nuanced. First, we need to need to define what we are actually hoping to find out. Our question concerns the Pokémon games developed by Game Freak and published by Nintendo. Pokémon itself is a media franchise that is managed by The Pokémon Company, which –according to Wikipedia- shares divided be Nintendo, Game Freak and Creatures. We do not consider the mobile augmented reality game Pokémon Go, or other spinoff games (such as Detective Pikachu). We expect that results differ for the card game Pokémon and Pokémon Go.
 
 The Pokémon games that we consider consist out the eight generations of Pokémon games, that span the Game Boy, Game Boy Color, Game Boy Advance, Nintendo DS, Nitendo 3DS, and the Nintendo Switch. 
 
 We considered online discussions into these games...
 
-### Scientific literature
-
-The literature on Pokémon can be organised around publications of the health effects of Pokémon Go with respect to physical activity, learning effects on children (memory, literacy). As of yet, we did not encounter studies in the scientific literature that were in line with our research goals.
+ 
 
 ## What could be considered under _best_?
 
@@ -108,4 +117,5 @@ Second, because these battle data are the result of the preferences and choices 
 Third, and in again in line with our ambition to _compare ‘em all_” (which is the last time we reference the theme song of the Pokémon anime series), we are not interested in differences in Pokémon performance that are the result of different choices for battle moves. A simulation study gives more flexibility in this respect.
 
 It is perhaps good to note that online Pokémon battles do not include differences between Pokémon levels. For online battles, all Pokémon have the same level.
- 
+
+# References

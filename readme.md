@@ -1,7 +1,7 @@
 ---
-title   : Towards finding the Pokémon
+title   : ''Gotta compare 'em all!'', emperical data from simulated Pokémon battles
 author  : Kroeze, Noort, Steinrücke, & Smink
-date    : `r format(Sys.time(), "%d %B, %Y")`
+date    : 12/21/2019
 ---
 
 # Abstract
@@ -82,3 +82,11 @@ Some resources already exist under an MIT license (https://github.com/fonse/poke
 
 ### Pokémon stats
 We obtainend the base stats from the Pokémon from ...
+
+# Results
+
+# Discussion
+
+We presented results of a simulation study. Although we believe our study properly emulates actual Pokémon battles, we cannot be certain that we missed some elements. Indeed, some of the restrictions that we introduced to our study will have affected our results. We address these issues and argue for the choices that we made.
+
+## Actual data

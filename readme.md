@@ -136,5 +136,6 @@ Third, and in again in line with our ambition to _compare ‘em all_” (which i
 It is perhaps good to note that online Pokémon battles do not include differences between Pokémon levels. For online battles, all Pokémon have the same level.
 
 # References
-[1]: https://pokemon-battle.herokuapp.com/ "The Pokémon Battle Simulator"
-[2]: https://pokemonshowdown.com/ "The Pokémon Showdown!"
+[1]: http://pokemon-battle.herokuapp.com/ "The Pokémon Battle Simulator".
+
+[2]: http://pokemonshowdown.com/ "The Pokémon Showdown!".
